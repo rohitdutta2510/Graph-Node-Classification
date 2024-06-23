@@ -1,0 +1,7 @@
+1. Run the LR.py using the following command
+    Windows : python LR.py
+    Linux : python3 LR.py
+
+2. Run the GCN.py using the following command
+    Windows : python GCN.py
+    Linux : python3 GCN.py
